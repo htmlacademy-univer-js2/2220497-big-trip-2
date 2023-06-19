@@ -1,6 +1,6 @@
 import AbstractStatefulView from '../framework/view/abstract-stateful-view.js';
 import { NEW_POINT } from '../const.js';
-import { convertPointDateForEditForm, capitalizeFirstLetter, isSubmitDisabledByDate, isSubmitDisabledByPrice, isSubmitDisabledByDestinationName } from '../utils/task.js';
+import { convertPointDateForEditForm, capitalizeFirstLetter, isSubmitDisabledByDate, isSubmitDisabledByPrice, isSubmitDisabledByDestinationName } from '../utils/point.js';
 import dayjs from 'dayjs';
 import he from 'he';
 import flatpickr from 'flatpickr';

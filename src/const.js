@@ -40,4 +40,4 @@ const TimeLimit = {
   UPPER_LIMIT: 1000,
 };
 
-export {NEW_POINT, FilterType, SortType, UserAction, UpdateType, TimeLimit};
+export { NEW_POINT, FilterType, SortType, UserAction, UpdateType, TimeLimit };
